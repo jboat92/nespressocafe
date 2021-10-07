@@ -1,0 +1,165 @@
+body{
+    margin: auto;
+    height: auto;
+    text-align: center;
+    font-family:cursive;
+}
+
+
+.flex-container{
+    display:flex;
+    flex-direction: column;
+    background-color: #fff;
+    align-content: space-between;
+        
+}
+
+
+.flex-item1{
+background-color: #000;
+height: 5%;
+line-height: 5%;
+} 
+
+
+ul{
+    list-style-type: none;
+}
+
+
+.flex-item1 li{
+    color:#fff;
+    display: inline-block;
+    width: 20%;
+    
+   
+    
+    
+}
+.flex-item1 li a{
+    
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    width:25%;
+   
+    
+    
+}
+li a:hover{
+    color: chocolate;
+}
+
+
+
+.flex-item2{
+    height: 60vh;
+    background-size: 100%;
+    background-image: url("/Users/jessicaboateng/Documents/CFG Web Dev Workshop/CFG Week 2 Homework CSS/CSS/images/cafebg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 10 auto 10% 0 ;
+    
+  
+  
+  
+}
+
+.flex-item3 h1{
+    text-align: center;
+}
+.flex-item3{
+    background-color: #fff;
+    height:20% ;
+    margin: 10% auto;
+    width: 40vw;
+    text-align:justify;
+    line-height: 40px;
+  
+}
+
+.flex-item4{
+    height: 60vh;
+    
+}
+
+mark{
+    background-color: rgba(243, 241, 239, 1);
+    
+}
+
+
+.main-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40vw;
+    padding-bottom: 10%;
+}
+
+button{
+    margin: 2% auto 30% auto;
+    height: 50px;
+    width: 40vw;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+   
+}
+#footer{
+   
+    margin:0;
+    height: auto;
+    background-color: black;
+    color: white;
+    width: auto;
+    padding-top: 2%;
+    overflow:auto;
+   
+    
+}
+#footer ul{  
+
+list-style-type: none;
+margin: auto;
+text-align: justify;
+
+}
+
+#footer li{ 
+    display: block; 
+
+ 
+    
+    }
+
+
+#footer a:hover {
+    color: chocolate;
+    
+    
+}
+
+.fa {
+    padding: 1%; 
+    text-align: justify;
+    text-decoration: none;
+    color: white;
+  }
+  
+
+
+}
+
+ a.fa {
+    
+     font-size: 15px;
+     
+     
+    
+  
+}
+
