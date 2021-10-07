@@ -57,7 +57,7 @@ li a:hover{
 .flex-item2{
     height: 60vh;
     background-size: 100%;
-    background-image: url("images/cafebg.jpg");
+    background-image: url("CSS/images/cafebg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     margin: 10 auto 10% 0 ;
